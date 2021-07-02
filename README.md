@@ -8,7 +8,8 @@ Create a new folder with an app name and open VS code in the current folder
 
 Once in the current folder on VS code open a new terminal from the top toolbar
 
-Code:
+
+CODE:
 
 npx react-native init AwesomeProject
 
